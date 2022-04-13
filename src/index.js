@@ -26,6 +26,3 @@ class UdpSockets {
 }
 
 export default UdpSockets
-
-// @ts-ignore
-module.exports = UdpSockets
